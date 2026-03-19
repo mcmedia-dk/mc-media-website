@@ -334,8 +334,12 @@ body.light-mode #themeToggle:hover {
         }
 
         .app-banner-top {
-            margin-top: 55px;
+            margin-top: 96px;
         }
+
+       .app-banner-page {
+           margin-top: 55px;
+       }
 
         .app-banner::before {
             content: '';
