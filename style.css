@@ -573,7 +573,7 @@ body.light-mode #themeToggle:hover {
            ====================================== */
         .about-section-new {
             background: var(--main-color);
-            padding: 7rem 0;
+            padding: 7rem 0 2rem 0;
             width: 100%;
         }
 
